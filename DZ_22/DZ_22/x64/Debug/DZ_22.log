@@ -1,0 +1,9 @@
+﻿  Chat.cpp
+C:\Users\akopo\Downloads\DZ_22\DZ_22\Chat.cpp(80,29): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  main.cpp
+  Message.cpp
+  User.cpp
+  Создание кода...
+C:\Users\akopo\Downloads\DZ_22\DZ_22\main.cpp(108,1): warning C4715: actions: значение возвращается не при всех путях выполнения
+  LINK : не найден или не выполнена сборка C:\Users\akopo\Downloads\DZ_22\x64\Debug\DZ_22.exe при последней инкрементной компоновке; выполняется полная компоновка
+  DZ_22.vcxproj -> C:\Users\akopo\Downloads\DZ_22\x64\Debug\DZ_22.exe

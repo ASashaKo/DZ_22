@@ -1,0 +1,7 @@
+/home/q/Документы/ДОКУМЕНТЫ/DZ_22/build-DZ_22-Desktop-Debug/CMakeFiles/Chat.dir
+/home/q/Документы/ДОКУМЕНТЫ/DZ_22/build-DZ_22-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/q/Документы/ДОКУМЕНТЫ/DZ_22/build-DZ_22-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/q/Документы/ДОКУМЕНТЫ/DZ_22/build-DZ_22-Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/q/Документы/ДОКУМЕНТЫ/DZ_22/build-DZ_22-Desktop-Debug/CMakeFiles/install.dir
+/home/q/Документы/ДОКУМЕНТЫ/DZ_22/build-DZ_22-Desktop-Debug/CMakeFiles/install/local.dir
+/home/q/Документы/ДОКУМЕНТЫ/DZ_22/build-DZ_22-Desktop-Debug/CMakeFiles/install/strip.dir

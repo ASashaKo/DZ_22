@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akopo\\Downloads\\DZ_22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{408EAB97-AB7A-4016-8BD3-37F34B2A64AA}|DZ_22\\DZ_22.vcxproj|C:\\Users\\akopo\\Downloads\\DZ_22\\DZ_22\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{408EAB97-AB7A-4016-8BD3-37F34B2A64AA}|DZ_22\\DZ_22.vcxproj|solutionrelative:DZ_22\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{408EAB97-AB7A-4016-8BD3-37F34B2A64AA}|DZ_22\\DZ_22.vcxproj|C:\\Users\\akopo\\Downloads\\DZ_22\\DZ_22\\Chat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{408EAB97-AB7A-4016-8BD3-37F34B2A64AA}|DZ_22\\DZ_22.vcxproj|solutionrelative:DZ_22\\Chat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{408EAB97-AB7A-4016-8BD3-37F34B2A64AA}|DZ_22\\DZ_22.vcxproj|C:\\Users\\akopo\\Downloads\\DZ_22\\DZ_22\\Chat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{408EAB97-AB7A-4016-8BD3-37F34B2A64AA}|DZ_22\\DZ_22.vcxproj|solutionrelative:DZ_22\\Chat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{408EAB97-AB7A-4016-8BD3-37F34B2A64AA}|DZ_22\\DZ_22.vcxproj|C:\\Users\\akopo\\Downloads\\DZ_22\\DZ_22\\Message.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{408EAB97-AB7A-4016-8BD3-37F34B2A64AA}|DZ_22\\DZ_22.vcxproj|solutionrelative:DZ_22\\Message.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{408EAB97-AB7A-4016-8BD3-37F34B2A64AA}|DZ_22\\DZ_22.vcxproj|C:\\Users\\akopo\\Downloads\\DZ_22\\DZ_22\\Message.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{408EAB97-AB7A-4016-8BD3-37F34B2A64AA}|DZ_22\\DZ_22.vcxproj|solutionrelative:DZ_22\\Message.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{408EAB97-AB7A-4016-8BD3-37F34B2A64AA}|DZ_22\\DZ_22.vcxproj|C:\\Users\\akopo\\Downloads\\DZ_22\\DZ_22\\User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{408EAB97-AB7A-4016-8BD3-37F34B2A64AA}|DZ_22\\DZ_22.vcxproj|solutionrelative:DZ_22\\User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{408EAB97-AB7A-4016-8BD3-37F34B2A64AA}|DZ_22\\DZ_22.vcxproj|C:\\Users\\akopo\\Downloads\\DZ_22\\DZ_22\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{408EAB97-AB7A-4016-8BD3-37F34B2A64AA}|DZ_22\\DZ_22.vcxproj|solutionrelative:DZ_22\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chat.cpp",
+              "DocumentMoniker": "C:\\Users\\akopo\\Downloads\\DZ_22\\DZ_22\\Chat.cpp",
+              "RelativeDocumentMoniker": "DZ_22\\Chat.cpp",
+              "ToolTip": "C:\\Users\\akopo\\Downloads\\DZ_22\\DZ_22\\Chat.cpp",
+              "RelativeToolTip": "DZ_22\\Chat.cpp",
+              "ViewState": "AQIAAPgAAAAAAAAAAAAqwBYBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-04T17:30:36.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Chat.h",
+              "DocumentMoniker": "C:\\Users\\akopo\\Downloads\\DZ_22\\DZ_22\\Chat.h",
+              "RelativeDocumentMoniker": "DZ_22\\Chat.h",
+              "ToolTip": "C:\\Users\\akopo\\Downloads\\DZ_22\\DZ_22\\Chat.h",
+              "RelativeToolTip": "DZ_22\\Chat.h",
+              "ViewState": "AQIAABgAAAAAAAAAAAAqwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-04T17:30:14.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Message.cpp",
+              "DocumentMoniker": "C:\\Users\\akopo\\Downloads\\DZ_22\\DZ_22\\Message.cpp",
+              "RelativeDocumentMoniker": "DZ_22\\Message.cpp",
+              "ToolTip": "C:\\Users\\akopo\\Downloads\\DZ_22\\DZ_22\\Message.cpp",
+              "RelativeToolTip": "DZ_22\\Message.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-04T17:29:52.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Message.h",
+              "DocumentMoniker": "C:\\Users\\akopo\\Downloads\\DZ_22\\DZ_22\\Message.h",
+              "RelativeDocumentMoniker": "DZ_22\\Message.h",
+              "ToolTip": "C:\\Users\\akopo\\Downloads\\DZ_22\\DZ_22\\Message.h",
+              "RelativeToolTip": "DZ_22\\Message.h",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-04T17:29:23.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cpp",
+              "DocumentMoniker": "C:\\Users\\akopo\\Downloads\\DZ_22\\DZ_22\\User.cpp",
+              "RelativeDocumentMoniker": "DZ_22\\User.cpp",
+              "ToolTip": "C:\\Users\\akopo\\Downloads\\DZ_22\\DZ_22\\User.cpp",
+              "RelativeToolTip": "DZ_22\\User.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-04T17:28:41.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.h",
+              "DocumentMoniker": "C:\\Users\\akopo\\Downloads\\DZ_22\\DZ_22\\User.h",
+              "RelativeDocumentMoniker": "DZ_22\\User.h",
+              "ToolTip": "C:\\Users\\akopo\\Downloads\\DZ_22\\DZ_22\\User.h",
+              "RelativeToolTip": "DZ_22\\User.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-04T17:28:18.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\akopo\\Downloads\\DZ_22\\DZ_22\\main.cpp",
+              "RelativeDocumentMoniker": "DZ_22\\main.cpp",
+              "ToolTip": "C:\\Users\\akopo\\Downloads\\DZ_22\\DZ_22\\main.cpp",
+              "RelativeToolTip": "DZ_22\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-04T17:27:36.748Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

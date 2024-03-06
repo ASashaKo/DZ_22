@@ -1,0 +1,61 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-268dc49b4acabcd001d0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Chat",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Chat::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Chat-Debug-40bcd59262202cec24eb.json",
+					"name" : "Chat",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/q/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/\u0414\u041e\u041a\u0423\u041c\u0415\u041d\u0422\u042b/DZ_22/build-DZ_22-Desktop-Debug",
+		"source" : "/home/q/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/\u0414\u041e\u041a\u0423\u041c\u0415\u041d\u0422\u042b/DZ_22/DZ_22"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
